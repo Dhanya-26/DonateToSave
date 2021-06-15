@@ -11,14 +11,15 @@ Every Single penny counts.
 
 CharitAble is a non-profit organization that works to help covid patients in these tough times.Help us provide Oxygen Cylinders, Beds, Ration, Medical & Hygiene Kits To Families Affected by COVID-19.
 
-India is in the midst of a major health crisis.
-Let us come together to save our country and fellow citizens.
-YOUR SUPPORT IS CRITICAL.
-DONATE NOW.
+India is in the midst of a major health crisis.  
+Let us come together to save our country and fellow citizens.  
+YOUR SUPPORT IS CRITICAL.  
+DONATE NOW.  
 
 ## Tech Stack
 * HTML
 * CSS
 
 ## Website
-https://donatetosave.netlify.app/
+https://donatetosave.netlify.app/  
+![GitHub Logo](/images/logo.png)
